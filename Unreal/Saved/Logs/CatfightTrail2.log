@@ -1549,3 +1549,22 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.10.12-20.25.22:588][975]LogPlayLevel: Display: Destroying online subsystem :Context_12
 [2024.10.12-20.31.14:792][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
 [2024.10.12-20.31.16:602][530]LogSlate: Window 'Save Content' being destroyed
+[2024.10.12-20.33.09:246][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.10.12-20.33.09:248][113]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/mainmenumap' took 0.023
+[2024.10.12-20.33.09:249][113]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/mainmenu] ([2] browsable assets)...
+[2024.10.12-20.33.09:256][113]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/mainmenu.mainmenu]
+[2024.10.12-20.33.09:256][113]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/mainmenu]
+[2024.10.12-20.33.09:256][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/mainmenu" FILE="../../../../../../Users/lr104student25/Documents/GitHub/CatFight/Unreal/Saved/Autosaves/Game/UI/mainmenu_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.10.12-20.33.09:266][113]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/mainmenu_Auto2
+[2024.10.12-20.33.09:270][113]LogSavePackage: Moving '../../../../../../Users/lr104student25/Documents/GitHub/CatFight/Unreal/Saved/mainmenu_Auto2DDB567E44C8C503F975231924CC88BF3.tmp' to '../../../../../../Users/lr104student25/Documents/GitHub/CatFight/Unreal/Saved/Autosaves/Game/UI/mainmenu_Auto2.uasset'
+[2024.10.12-20.33.09:277][113]LogFileHelpers: Auto-saving content packages took 0.029
+[2024.10.12-20.41.05:477][607]LogEditorViewport: Clicking Background
+[2024.10.12-20.43.58:468][570]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.10.12-20.44.02:314][570]LogSlate: Window 'Save Content' being destroyed
+[2024.10.12-20.44.02:333][570]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.12-20.44.02:413][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/mainmenu" FILE="../../../../../../Users/lr104student25/Documents/GitHub/CatFight/Unreal/Content/UI/mainmenu.uasset" SILENT=true
+[2024.10.12-20.44.02:422][570]LogSavePackage: Moving output files for package: /Game/UI/mainmenu
+[2024.10.12-20.44.02:427][570]LogSavePackage: Moving '../../../../../../Users/lr104student25/Documents/GitHub/CatFight/Unreal/Saved/mainmenu9A5CB315481A56064AF8358046DFBD67.tmp' to '../../../../../../Users/lr104student25/Documents/GitHub/CatFight/Unreal/Content/UI/mainmenu.uasset'
+[2024.10.12-20.44.02:454][570]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms
+[2024.10.12-20.44.02:459][570]AssetCheck: New page: Asset Save: mainmenu
+[2024.10.12-20.44.02:459][570]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/mainmenu.mainmenu
