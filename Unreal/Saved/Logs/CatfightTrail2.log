@@ -3657,3 +3657,14 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.10.12-19.38.49:562][768]AssetCheck: New page: Asset Save: multiple assets
 [2024.10.12-19.38.49:563][768]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/healthbar.healthbar
 [2024.10.12-19.38.49:563][768]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/mainmenu.mainmenu
+[2024.10.12-19.40.52:278][446]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/healthbar.healthbar
+[2024.10.12-19.40.52:278][446]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.12-19.40.52:278][446]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.12-19.40.52:288][446]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.12-19.40.52:288][446]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.12-19.41.48:805][737]LogDerivedDataCache: C:/Users/lr104student25/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.144 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2965 files in 3992 folders with total size 133 MiB.
+[2024.10.12-19.45.24:827][820]LogSlate: Window 'healthbar' being destroyed
+[2024.10.12-19.45.24:878][820]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.10.12-19.45.24:879][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.12-19.45.24:903][820]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.10.12-19.45.24:903][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
