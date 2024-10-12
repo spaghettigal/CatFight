@@ -3642,3 +3642,18 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.10.12-19.36.39:804][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2024.10.12-19.36.39:819][ 31]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
 [2024.10.12-19.36.39:819][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.12-19.37.43:258][771]LogEditorViewport: Clicking Background
+[2024.10.12-19.37.43:956][851]LogEditorViewport: Clicking Background
+[2024.10.12-19.38.47:243][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.10.12-19.38.49:407][768]LogSlate: Window 'Save Content' being destroyed
+[2024.10.12-19.38.49:423][768]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.12-19.38.49:492][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/healthbar" FILE="../../../../../../Users/lr104student25/Documents/GitHub/CatFight/Unreal/Content/UI/healthbar.uasset" SILENT=true
+[2024.10.12-19.38.49:499][768]LogSavePackage: Moving output files for package: /Game/UI/healthbar
+[2024.10.12-19.38.49:499][768]LogSavePackage: Moving '../../../../../../Users/lr104student25/Documents/GitHub/CatFight/Unreal/Saved/healthbar9B76FF3A4F2F285E4E34AF9D93F74007.tmp' to '../../../../../../Users/lr104student25/Documents/GitHub/CatFight/Unreal/Content/UI/healthbar.uasset'
+[2024.10.12-19.38.49:513][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/mainmenu" FILE="../../../../../../Users/lr104student25/Documents/GitHub/CatFight/Unreal/Content/UI/mainmenu.uasset" SILENT=true
+[2024.10.12-19.38.49:528][768]LogSavePackage: Moving output files for package: /Game/UI/mainmenu
+[2024.10.12-19.38.49:534][768]LogSavePackage: Moving '../../../../../../Users/lr104student25/Documents/GitHub/CatFight/Unreal/Saved/mainmenuEEC6EEEC4BC0D8F383229B8DFA255DF0.tmp' to '../../../../../../Users/lr104student25/Documents/GitHub/CatFight/Unreal/Content/UI/mainmenu.uasset'
+[2024.10.12-19.38.49:559][768]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 1.08 sec)
+[2024.10.12-19.38.49:562][768]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.12-19.38.49:563][768]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/healthbar.healthbar
+[2024.10.12-19.38.49:563][768]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/mainmenu.mainmenu
