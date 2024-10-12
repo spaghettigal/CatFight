@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/GAD101RHC/CatfightTrail2/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"E:/GAD101RHC/CatfightTrail2/Content/CatFightLevel.umap",
+				"E:/GAD101RHC/CatfightTrail2/Content/Blueprinting/CatfightCharacter.uasset",
+				"E:/GAD101RHC/CatfightTrail2/Content/Blueprinting/BP_CFGameMode.uasset",
+				"E:/GAD101RHC/CatfightTrail2/Content/Blueprinting/BP_CFPlayerController.uasset",
+				"E:/GAD101RHC/CatfightTrail2/Content/CatFightLevel2.umap",
+				"E:/GAD101RHC/CatfightTrail2/Content/ThirdPerson/Blueprints/CatfightCharacter.uasset",
+				"E:/GAD101RHC/CatfightTrail2/Content/Art/CatfightCharacter.uasset",
+				"E:/GAD101RHC/CatfightTrail2/Content/Blueprinting/CT_FG_GameMode.uasset",
+				"E:/GAD101RHC/CatfightTrail2/Content/Blueprinting/BP_CF_GameMode.uasset"
+			]
+		}
+	]
+}
