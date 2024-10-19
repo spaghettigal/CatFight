@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GAD101RHC/CatFight/Unreal/Content/Characters/Mannequins/Animations/Quinn/CF_Rig.uasset",
+				"D:/GAD101RHC/CatFight/Unreal/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple_CtrlRig.uasset",
 				"E:/GAD101RHC/CatFight/Unreal/Content/Blueprinting/CFPlayer1.uasset",
 				"E:/GAD101RHC/CatFight/Unreal/Content/__ExternalActors__/Blueprinting/Maps/ThirdPersonMap/4/GQ/6LVECUEORQO4ZRMWBE33GZ.uasset",
 				"E:/GAD101RHC/CatFight/Unreal/Content/__ExternalObjects__/Blueprinting/Maps/ThirdPersonMap/2/A8/C6IK3M8CLX5UEBM2JT0BW0.uasset",
@@ -169,7 +171,6 @@
 				"E:/GAD101RHC/CatFight/Unreal/Content/ThirdPerson/Input/Actions/IA_Jump.uasset",
 				"E:/GAD101RHC/CatFight/Unreal/Content/Blueprinting/Maps/ThirdPersonMap_BuiltData.uasset",
 				"E:/GAD101RHC/CatFight/Unreal/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset",
-				"E:/GAD101RHC/CatFight/Unreal/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
 				"E:/GAD101RHC/CatFight/Unreal/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset"
 			]
 		}
