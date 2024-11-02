@@ -7,7 +7,14 @@
 			"files": [
 				"C:/Users/lr104student25/Documents/GitHub/CatFight/Unreal/Content/CatFightLevel2.umap",
 				"C:/Users/lr104student25/Documents/GitHub/CatFight/Unreal/Content/ART/materials/m_background.uasset",
-				"C:/Users/lr104student25/Documents/GitHub/CatFight/Unreal/Content/ART/background/Untitled_Artwork__2_.uasset"
+				"C:/Users/lr104student25/Documents/GitHub/CatFight/Unreal/Content/ART/background/Untitled_Artwork__2_.uasset",
+				"C:/Users/lr104student25/Documents/GitHub/CatFight/Unreal/Content/UI/healthwidget.uasset",
+				"C:/Users/lr104student25/Documents/GitHub/CatFight/Unreal/Content/UI/healthbarCF.uasset",
+				"C:/Users/lr104student25/Documents/GitHub/CatFight/Unreal/Content/UI/healthbarCFempty.uasset",
+				"C:/Users/lr104student25/Documents/GitHub/CatFight/Unreal/Content/Blueprinting/BP_CFPlayer1.uasset",
+				"C:/Users/lr104student25/Documents/GitHub/CatFight/Unreal/Content/AI/BP_CFAIEnemy.uasset",
+				"C:/Users/lr104student25/Documents/GitHub/CatFight/Unreal/Content/UI/countdown.uasset",
+				"C:/Users/lr104student25/Documents/GitHub/CatFight/Unreal/Content/Blueprinting/BP_CFGameMode.uasset"
 			]
 		}
 	]
