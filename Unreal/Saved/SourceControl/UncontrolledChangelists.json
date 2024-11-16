@@ -17,6 +17,8 @@
 				"E:/GAD101RHC/CatFight/Unreal/Content/StarterContent/Props/Materials/M_Rock.uasset",
 				"E:/GAD101RHC/CatFight/Unreal/Content/StarterContent/Materials/M_Rock_Basalt.uasset",
 				"E:/GAD101RHC/CatFight/Unreal/Content/AI/Decorators/IsOnHit.uasset",
+				"E:/GAD101RHC/CatFight/Unreal/Content/Blueprinting/BP_CFPlayer1.uasset",
+				"E:/GAD101RHC/CatFight/Unreal/Content/AI/AITasks/BTTask_OnHitAnimation.uasset",
 				"E:/GAD101RHC/CatFight/Unreal/Content/AI/BTT_DefaultAttack.uasset"
 			]
 		}
