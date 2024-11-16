@@ -10,10 +10,14 @@
 				"E:/GAD101RHC/CatFight/Unreal/Content/AI/AIC_CFAI.uasset",
 				"E:/GAD101RHC/CatFight/Unreal/Content/AI/BP_CFAIEnemy.uasset",
 				"E:/GAD101RHC/CatFight/Unreal/Content/AI/BT_CFAi.uasset",
-				"E:/GAD101RHC/CatFight/Unreal/Content/AI/BTT_DefaultAttack.uasset",
 				"E:/GAD101RHC/CatFight/Unreal/Content/AI/AITasks/BTT_FocusTarget.uasset",
 				"E:/GAD101RHC/CatFight/Unreal/Content/AI/AITasks/BTT_DefaultAttack.uasset",
-				"E:/GAD101RHC/CatFight/Unreal/Content/AI/AITasks/BTT_FocusClearClear.uasset"
+				"E:/GAD101RHC/CatFight/Unreal/Content/AI/AITasks/BTT_FocusClearClear.uasset",
+				"E:/GAD101RHC/CatFight/Unreal/Content/StarterContent/Materials/M_Concrete_Tiles.uasset",
+				"E:/GAD101RHC/CatFight/Unreal/Content/StarterContent/Props/Materials/M_Rock.uasset",
+				"E:/GAD101RHC/CatFight/Unreal/Content/StarterContent/Materials/M_Rock_Basalt.uasset",
+				"E:/GAD101RHC/CatFight/Unreal/Content/AI/Decorators/IsOnHit.uasset",
+				"E:/GAD101RHC/CatFight/Unreal/Content/AI/BTT_DefaultAttack.uasset"
 			]
 		}
 	]
