@@ -17,6 +17,14 @@
 				"E:/GAD101RHC/CatFight/Unreal/Content/StarterContent/Materials/M_Rock_Basalt.uasset",
 				"E:/GAD101RHC/CatFight/Unreal/Content/Controls/Input/cannedfood.uasset",
 				"E:/GAD101RHC/CatFight/Unreal/Content/Controls/Input/standardSurface1.uasset",
+				"E:/GAD101RHC/CatFight/Unreal/Content/AI/DamageSystem/E_DamageType.uasset",
+				"E:/GAD101RHC/CatFight/Unreal/Content/AI/DamageSystem/BP_Damage.uasset",
+				"E:/GAD101RHC/CatFight/Unreal/Content/AI/DamageSystem/E_DamageResponse.uasset",
+				"E:/GAD101RHC/CatFight/Unreal/Content/AI/DamageSystem/S_DamageInfo.uasset",
+				"E:/GAD101RHC/CatFight/Unreal/Content/AI/DamageSystem/BPC_DamageSystem.uasset",
+				"E:/GAD101RHC/CatFight/Unreal/Content/Blueprinting/BP_CFPlayer1.uasset",
+				"E:/GAD101RHC/CatFight/Unreal/Content/Art/materials/m_background.uasset",
+				"E:/GAD101RHC/CatFight/Unreal/Content/AI/DamageSystem/DamageType.uasset",
 				"E:/GAD101RHC/CatFight/Unreal/Content/AI/BTT_DefaultAttack.uasset"
 			]
 		}
